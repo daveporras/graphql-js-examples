@@ -10,6 +10,7 @@ For this snippets, you need run any React.JS project in Node.JS environment. Als
 ## Snippets:
 
  - [HTTP Requests](https://github.com/daveporras/graphql-js-examples/blob/master/graphql-react/httpRequests.js): Make requests to a GraphQL server using axios library.
+ - [Combine Apollo + Redux](https://github.com/daveporras/graphql-js-examples/blob/master/graphql-react/combineApolloRedux): Combine Apollo Client Provider and React Redux Provider for manage local states y remote data.
 
 ## Donations
 
