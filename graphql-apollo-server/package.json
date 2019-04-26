@@ -1,0 +1,14 @@
+{
+  "name": "graphql-apollo-server-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "axios": "^0.18.0",
+    "graphql": "^14.2.1"
+  }
+}
